@@ -1,2 +1,2 @@
 # FAR-Berkeley-Parser
-Models and accuracy F1 scores for Berkeley Parser trained on Faroese Parsed Historical Corpus.
+This repository contains grammar-file created by training a new grammar training scripts from the Berkeley Parser package (Petrov et al., 2006; Petrov and Klein, 2007) on the Faroese Parsed Historical Corpus (Ingason et al, 2012).
